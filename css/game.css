@@ -1,3 +1,10 @@
-button{
-    margin: 0 auto;
+
+.cella{
+    width: calc(100% /8);
+    border: 1px solid red;
+    aspect-ratio: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
 }
